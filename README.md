@@ -12,3 +12,9 @@ Steps:
 
 
 Does not appear to affect `in:[transition]`, but affects `transition:[transition]` and `out:[transition]`.
+
+Upon step #5, a refresh will resolve the actual page.
+
+
+Affects but not limited to `goto()` and `capture()`.
+https://discord.com/channels/457912077277855764/1121233902158237848
